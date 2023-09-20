@@ -1,8 +1,8 @@
 class Fish {
   constructor(position) {
     this.position = position.copy();
-    this.width = 100;
-    this.height = 60;
+    this.width = 400;
+    this.height = 120;
   }
 
   run() {
